@@ -1,0 +1,30 @@
+{
+  "name": "babel-config-pandora",
+  "version": "1.0.0",
+  "description": "babel config for pandora",
+  "keywords": [
+    "babel",
+    "config",
+    "pandora"
+  ],
+  "homepage": "https://github.com/kingller/babel-config-pandora",
+  "bugs": {
+    "url": "https://github.com/kingller/babel-config-pandora/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kingller/babel-config-pandora.git"
+  },
+  "license": "MIT",
+  "author": "Kingller Tang",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=12.22.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }
+}
