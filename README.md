@@ -13,6 +13,6 @@ In your babel configuration (`babel.config.js`):
 
 ```javascript
 module.exports = {
-    extends: `babel-config-pandora`,
+    extends: 'babel-config-pandora',
 };
 ```
