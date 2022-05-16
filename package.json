@@ -1,6 +1,6 @@
 {
   "name": "babel-config-pandora",
-  "version": "1.1.0-dev",
+  "version": "1.1.0-dev2",
   "description": "babel config for pandora",
   "keywords": [
     "babel",
@@ -17,12 +17,6 @@
   },
   "license": "MIT",
   "author": "Kingller Tang",
-  "files": [
-    "index.js",
-    "LICENSE",
-    "package.json",
-    "README.md"
-  ],
   "main": "index.js",
   "scripts": {},
   "dependencies": {

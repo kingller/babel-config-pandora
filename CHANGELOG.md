@@ -8,4 +8,4 @@
 
 # Next
 1. <font color=green>新增</font> 管理 `babel` 包依赖版本
-2. <font color=orange>修改</font> `Browsers` polyfill 改为使用 `corejs`
+2. <font color=orange>修改</font> `@babel/preset-env` 设置 `useBuiltIns: 'entry'`

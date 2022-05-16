@@ -1,10 +1,16 @@
 module.exports = {
-    presets: ['@babel/preset-react', ['@babel/preset-env', {
-        // https://babeljs.io/docs/en/babel-preset-env
-        corejs: '3.22.5',
-        useBuiltIns: 'usage',
-
-    }], 'mobx'],
+    presets: [
+        '@babel/preset-react',
+        [
+            '@babel/preset-env',
+            {
+                // https://babeljs.io/docs/en/babel-preset-env
+                corejs: '3.22.5',
+                useBuiltIns: 'entry',
+            },
+        ],
+        'mobx',
+    ],
     plugins: [
         // Stage 0
         '@babel/plugin-proposal-function-bind',
