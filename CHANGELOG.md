@@ -9,6 +9,8 @@
 # Next
 
 
+# 1.2.0
+1. <font color=blue>增强</font> 升级依赖包的版本
 
 # 1.1.0
 1. <font color=green>新增</font> 管理 `babel` 包依赖版本
